@@ -2,8 +2,7 @@
 <h1 alig="center">Hola soy Werly Ruiz 👋</h1>
 </div>
 <img src="https://imgur.com/a/AsYq8AX">
-<!--
-**MrWerly/MrWerly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## Sobre mi
 - ⚡ Cursando la carrera de Ingeniería Informática en la Universidad Autónoma de Asunción
@@ -12,4 +11,3 @@
 - 👯 Busco colaborar en proyectos de Desarrollo Web ...
 - 📫 Contacto werlyruiz@gmail.com
 
--->
