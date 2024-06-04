@@ -1,7 +1,7 @@
 <div align "center">
 <h1 alig="center">Hola soy Werly Ruiz 👋</h1>
 </div>
-<img src="https://imgur.com/a/AsYq8AX">
+<img src="https://imgur.com/a/AsYq8AX.png">
 
 
 ## Sobre mi
