@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Cursando la carrera de Ingeniería Informática en la Universidad Autónoma de Asunción<br>🔭 Actualmente estoy trabajando como servicio técnico en mi emprendimiento.<br>🌱 Actualmente estoy aprendiendo para ser FullStack ...<br>👯 Busco colaborar en proyectos de Desarrollo Web ...<br>📫 Contacto werlyruiz@gmail.com
+⚡ Cursando la carrera de Ingeniería Informática en la Universidad Autónoma de Asunción<br>🔭 Actualmente estoy trabajando como servicio técnico en mi emprendimiento.<br>🌱 Actualmente estoy aprendiendo para ser FullStack ...<br>📫 Contacto werlyruiz@gmail.com
 
 
 ## 🌐 Socials:
